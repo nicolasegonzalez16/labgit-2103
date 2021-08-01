@@ -1,0 +1,2 @@
+user= Myuser
+pass= Mypass
